@@ -108,6 +108,11 @@ body {
   height: 100%;
 }
 
+header {
+  color: black;
+  font-size: 2em;
+}
+
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
   font-weight: 700;
